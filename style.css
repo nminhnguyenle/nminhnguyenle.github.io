@@ -1,0 +1,35 @@
+body {
+  background: #c0c0c0;
+  color: #000;
+  font-family: "Times New Roman", Times, serif;
+  max-width: 760px;
+  margin: 40px auto;
+  padding: 0 16px;
+}
+
+a {
+  color: #0000ee;
+}
+
+a:visited {
+  color: #551a8b;
+}
+
+p, li {
+  line-height: 1.5;
+}
+
+nav {
+  margin: 16px 0;
+}
+
+pre {
+  overflow-x: auto;
+  padding: 12px;
+  border: 1px solid #888;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
