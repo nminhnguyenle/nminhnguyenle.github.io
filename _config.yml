@@ -1,0 +1,9 @@
+title: "Nguyen Le Nhat Minh"
+url: "https://nminhnguyenle.github.io"
+email: "work.nminh@gmail.com"
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
+
+permalink: /:year/:month/:day/:title/
